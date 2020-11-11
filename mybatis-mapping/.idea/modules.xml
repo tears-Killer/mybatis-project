@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day1/mybatis-day1.iml" filepath="$PROJECT_DIR$/mybatis-day1/mybatis-day1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day2/mybatis-day2.iml" filepath="$PROJECT_DIR$/mybatis-day2/mybatis-day2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day3/mybatis-day3.iml" filepath="$PROJECT_DIR$/mybatis-day3/mybatis-day3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day4/mybatis-day4.iml" filepath="$PROJECT_DIR$/mybatis-day4/mybatis-day4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day5/mybatis-day5.iml" filepath="$PROJECT_DIR$/mybatis-day5/mybatis-day5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day6/mybatis-day6.iml" filepath="$PROJECT_DIR$/mybatis-day6/mybatis-day6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-day7/mybatis-day7.iml" filepath="$PROJECT_DIR$/mybatis-day7/mybatis-day7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-log/mybatis-log.iml" filepath="$PROJECT_DIR$/mybatis-log/mybatis-log.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-mapping.iml" filepath="$PROJECT_DIR$/mybatis-mapping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mybatis-plus/mybatis-plus.iml" filepath="$PROJECT_DIR$/../mybatis-plus/mybatis-plus.iml" />
+    </modules>
+  </component>
+</project>
